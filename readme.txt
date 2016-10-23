@@ -1,3 +1,3 @@
-Git is free.
-Git is very powerful version control software.
+Git is a distributed version control system.
+Git is free software.
 Git is develop by linus.
