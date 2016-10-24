@@ -3,4 +3,4 @@ Git is free software.
 Git is develop by linus.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage
-Git tracks changes.
+Git tracks changes of modify not only file.
